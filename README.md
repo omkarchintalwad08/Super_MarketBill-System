@@ -7,19 +7,19 @@ Smart Mart Supermarket Billing System is a simple and user-friendly billing appl
 
 The project is designed as a beginner-friendly Object-Oriented Programming (OOP) project and demonstrates the practical use of Python classes, objects, constructors, methods, lists, calculations, and user input.
 
-Key Features
-🏪 Supermarket and GST details
-👤 Customer and cashier information
-🛒 Multiple item entry
-🔢 Quantity and price calculation
-💰 Automatic total amount calculation
-🎁 Discount calculation
-🧾 CGST and SGST calculation
-💳 Cash and UPI payment options
-💵 Automatic change calculation
-📋 Detailed bill summary
-💾 Clean and structured Python OOP implementation
-🌐 Can be extended with an HTML, CSS, and JavaScript GUI
+Key Features:
+-🏪 Supermarket and GST details
+-👤 Customer and cashier information
+-🛒 Multiple item entry
+-🔢 Quantity and price calculation
+-💰 Automatic total amount calculation
+-🎁 Discount calculation
+-🧾 CGST and SGST calculation
+-💳 Cash and UPI payment options
+-💵 Automatic change calculation
+-📋 Detailed bill summary
+-💾 Clean and structured Python OOP implementation
+-🌐 Can be extended with an HTML, CSS, and JavaScript GUI
 
 Technologies: Python • OOP • HTML • CSS • JavaScript
 
