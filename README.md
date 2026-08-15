@@ -1,2 +1,2 @@
 # SuperMarket_Bill System
-This is the console based code in A simple supermarket billing application built with Python, featuring customer details, item management, discounts, CGST/SGST calculation, payment processing, and bill generation.The project is designed as a beginner-friendly Object-Oriented Programming (OOP) project and demonstrates the practical use of Python classes, objects, constructors, methods, lists, calculations, and user input.
+This is the console based code in A simple supermarket billing application built with Python, featuring customer details, item management, discounts, CGST/SGST calculation, payment processing, and bill generation.
